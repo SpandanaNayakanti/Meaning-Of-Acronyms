@@ -65,7 +65,7 @@
             NSLog(@"Error parsing JSON.");
         }
         else {
-            if (arrayForTableViewData.count>0) {
+            if (jsonArray.count>0) {
                 
             
             
