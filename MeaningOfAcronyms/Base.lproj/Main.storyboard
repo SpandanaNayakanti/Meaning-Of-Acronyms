@@ -113,13 +113,13 @@
                                 <exclude reference="cwQ-YH-0Jx"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="RYJ-PZ-ss9"/>
                                 <exclude reference="5Zu-yW-m9B"/>
+                                <exclude reference="RYJ-PZ-ss9"/>
                                 <exclude reference="mKK-fc-yIy"/>
                                 <exclude reference="o2Z-MD-f5H"/>
                                 <exclude reference="s3p-Fq-bLd"/>
-                                <exclude reference="Ev4-NK-Wxh"/>
                                 <exclude reference="2zL-28-xr1"/>
+                                <exclude reference="Ev4-NK-Wxh"/>
                                 <exclude reference="XJP-Bz-cgY"/>
                             </mask>
                         </variation>
@@ -129,13 +129,13 @@
                                 <include reference="cwQ-YH-0Jx"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="RYJ-PZ-ss9"/>
                                 <include reference="5Zu-yW-m9B"/>
+                                <include reference="RYJ-PZ-ss9"/>
                                 <include reference="mKK-fc-yIy"/>
                                 <include reference="o2Z-MD-f5H"/>
                                 <include reference="s3p-Fq-bLd"/>
-                                <include reference="Ev4-NK-Wxh"/>
                                 <include reference="2zL-28-xr1"/>
+                                <include reference="Ev4-NK-Wxh"/>
                                 <include reference="XJP-Bz-cgY"/>
                             </mask>
                         </variation>
@@ -160,7 +160,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="barTintColor" red="0.22352941179999999" green="0.4549019608" blue="0.70588235290000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="barTintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <textAttributes key="titleTextAttributes">
                             <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         </textAttributes>
