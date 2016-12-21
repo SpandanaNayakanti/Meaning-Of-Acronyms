@@ -68,7 +68,7 @@
             if (jsonArray.count>0) {
                 
             
-            
+                [arrayForTableViewData removeAllObjects];
             [arrayForTableViewData addObjectsFromArray:[[[jsonArray objectAtIndex:0] valueForKey:@"lfs"] mutableCopy]];
             [TVForAcronym reloadData];
             }
